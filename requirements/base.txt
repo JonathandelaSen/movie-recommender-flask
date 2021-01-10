@@ -1,0 +1,7 @@
+Flask
+requests
+flask_pymongo
+dnspython
+environs
+pandas
+requests
